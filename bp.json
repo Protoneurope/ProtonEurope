@@ -53,6 +53,6 @@
 			"node_type": "query",
 			"features": [
 				"chain-api"
-		}
+		
 	]
 }

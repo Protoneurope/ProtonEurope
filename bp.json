@@ -49,10 +49,21 @@
 			"longitude": 10.4515
 		},
 			"api_endpoint": "http://bp1-mainnet.euproton.com",
-			"ssl_endpoint": "https://bp1-mainnet.euproton.com",
+			"ssl_endpoint": "http://bp1-mainnet.euproton.com",
 			"node_type": "query",
 			"features": [
 				"chain-api"
+			]
+		},
 		
+		{
+			"location": {
+			"name": "Germany",
+			"country": "DE",
+			"latitude": 51.1657,
+			"longitude": 10.4515
+		},
+			"node_type": "producer"
+		}
 	]
 }

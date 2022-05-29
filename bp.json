@@ -1,4 +1,4 @@
-
+{
 	"producer_account_name": "ProtonEurop",
 	"org": {
 		"candidate_name": "ProtonEurope",
@@ -7,7 +7,7 @@
 		"email": "protoneurope@hotmail.com",
 		"ownership_disclosure": "https://protoneurope.github.io/ProtonEurope/",
 		"branding": {
-			"logo_256": "https://raw.githubusercontent.com/Protoneurope/ProtonEurope/gh-pages/logo256.jpg",
+			"logo_256": "https://raw.githubusercontent.com/Protoneurope/ProtonEurope/gh-pages/logo256.jg",
 			"logo_1024": "https://github.com/Protoneurope/ProtonEurope/blob/gh-pages/logo1024.jpg",
 			"logo_svg": ""
 		},
